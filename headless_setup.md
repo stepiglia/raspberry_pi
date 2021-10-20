@@ -99,6 +99,8 @@ Now open spotliht, select screen sharing app, in connect to add:
 raspberrypi.local
 ```
 
+----
 
+Remember the resolution will be low. You can change it to 1k * 768 to match your Mac
 
 
